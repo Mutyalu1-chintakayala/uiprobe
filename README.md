@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # UIProbe
 
@@ -53,3 +54,7 @@ Build a reliable AI-assisted testing platform that helps developers identify, un
 ## Author
 
 MUTYALU CHINTAKAYALA
+=======
+# uiprobe
+web testing platform
+>>>>>>> origin/main

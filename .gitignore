@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test artifacts
+test-results/
+playwright-report/
+blob-report/
+
+# UIProbe generated artifacts
+artifacts/
+screenshots/
+reports/generated/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
